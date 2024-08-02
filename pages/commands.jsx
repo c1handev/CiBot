@@ -39,7 +39,7 @@ const commands = [
       </div>
         <p className="text-xl font-medium text-white">
           <i className="fal fa-cogs text-amber-400 mr-2" />
-         Bot Commands
+         Bot Komutları
         </p>
         <p className="text-white text-sm text-opacity-50 mb-5">
         CiBot'un Komutlarına Buradan Bakabilirsin.
@@ -53,7 +53,7 @@ const commands = [
                  
                     <>
                       <i className="fa fa-hashtag text-white text-opacity-20" />
-                     View Commands List
+                     Komut Listesine Bak
                     </>
                 
                 </div>
