@@ -87,7 +87,7 @@ CiBot'a Oy Ver(daha gelmedi)</a>
               <>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
                   <img src="https://media.discordapp.net/attachments/907378577253744640/1176892776877666325/image.png"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
-                  <p className="text-3xl text-white font-semibold">En İyi Bot!t</p>
+                  <p className="text-3xl text-white font-semibold">En İyi Bot!</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">CiBot İle Yeni Bir Maceraya Çıkmaya Hazırmısın?</p>
                 </div>
                 <img src="https://media.discordapp.net/attachments/907378577253744640/1176892776877666325/image.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
