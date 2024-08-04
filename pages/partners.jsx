@@ -16,14 +16,14 @@ export default function Partners() {
             <div className="lg:max-w-screen-lg mt-10 mx-auto grid grid-cols-1 md:grid-cols-2 gap-4">
 
             <div className="flex flex-col justify-center text-white rounded">
-            <a href="https://discord.com/oauth2/authorize?client_id=990709947509649468&permissions=8&integration_type=0&scope=bot">
+            <a href="https://discord.com/oauth2/authorize?client_id=972564795846983750&permissions=8&integration_type=0&scope=bot">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
                             <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/attachments/1215354169842475060/1268940374932717680/log.png?ex=66ae4051&is=66aceed1&hm=1edb57f4b8e137613d897a37b405c65769ff56a4f1f38c7193e94e64a8a5f96d&" />
                             <div>
                                 <h1 className="leading-none text-3xl font-bold text-white">Botrex</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
-                                      Sunucunu Tamamen Türkçe Olan Botrex İle Güzelleştirmeye Ne Dersin?
+                                      Sunucunu Tamamen Türkçe Olan Ve Doğrulanmış Olan Botrex İle Güzelleştirmeye Ne Dersin?
                                     </p>
                                 </div>     
                             </div>
