@@ -90,7 +90,7 @@ CiBot'a Oy Ver(daha gelmedi)</a>
                   <p className="text-3xl text-white font-semibold">En İyi Bot!</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">CiBot İle Yeni Bir Maceraya Çıkmaya Hazırmısın?</p>
                 </div>
-                <img src="https://cdn.discordapp.com/attachments/1268641535424200829/1269781697386250362/WhatsApp_Image_2024-08-05_at_01.16.44.jpeg?ex=66b14fdc&is=66affe5c&hm=2acc2e877319f17ab520b4f8591969dbc4f6cb012e03e4347622f8f0cdaba2a2&" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
+                <img src="blob:https://web.whatsapp.com/87fd57af-09b6-473c-a455-956335fe6d1f" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
       
         </div>
