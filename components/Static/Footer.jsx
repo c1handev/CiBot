@@ -82,14 +82,14 @@ export default function Footer() {
                             <div>
                                 <Link href="/tos">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                        Terms Of Service
+                                        Kullanım Şartları
                                     </a>
                                 </Link>
                             </div>
                             <div>
                                 <Link href="/privacy">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                        Privacy Policy
+                                         Gizlilik Politikası
                                     </a>
                                 </Link>
                             </div>
@@ -97,11 +97,11 @@ export default function Footer() {
                     </div>
                     <div className="mt-10 grid content-center grid-cols-1 sm:grid-cols-2 md:grid-cols-3">
                         <p className="text-white text-center sm:text-left text-opacity-50">
-                            {new Date().getFullYear()} &copy; MusicMaker
+                            {new Date().getFullYear()} &copy; CiBot
                         </p>
                         <div className="hidden md:flex items-center justify-center">
-                                <p className={"text-xs text-green-400"}>
-                                    Bot Online
+                                <p className={"text-xs text-gray-400"}>
+                                    Bot Şu Anda Kullanıma Açık Değil
                                 </p>
                         </div>
                         <p className="text-white text-center sm:text-right text-opacity-50">
