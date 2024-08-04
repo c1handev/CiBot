@@ -7,8 +7,6 @@ export default function Privacy() {
   <div className="animateHeader text-white text-opacity-40 mt-5">
         <p>⊳ CiBot botunu kullanmak için discord sunucunuza eklerken gerekli izinleri tanımlamanız gerekir. <a className="text-white">(MESAJLARI OKUYUN, MESAJ GÖNDERİN, BAĞLANTILARI YERLEŞTİRİN, DOSYA EKLE, MESAJ GEÇMİŞİNİ OKUYUN, BAĞLANIN, KONUŞUN, SES AKTİVİTESİ KULLANIN, ÖNCELİKLİ KONUŞMACI)</a></p>
         <div className="py-3"></div>
-        <p>⊳ You have to vote for the <a className="text-white" href="https://top.gg/bot/774043716797071371/vote">MusicMaker</a> bot when using certain commands from the bot commands.</p>
-        <div className="py-3"></div>
         <p>⊳ CiBot'u Herkes Kullanabilir ama Zarar Vermeye Çalışmadığı Sürece</p>
         <div className="py-3"></div>
         <p>⊳ CiBot'u kullanırken belirli komutları aynı anda kullanamazsınız.</p>   
