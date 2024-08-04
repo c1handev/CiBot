@@ -46,7 +46,7 @@ CiBot'a Oy Ver(daha gelmedi)</a>
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-y-12 lg:gap-y-0 lg:gap-x-12 py-24">
           <div className="col-span-4">
             <p className="text-white text-4xl font-bold" dangerouslySetInnerHTML={{ __html:"CiBot" }} />
-            <p className="text-white text-md font-medium text-gray-500/75" dangerouslySetInnerHTML={{ __html: "En Rahat Ortama Girmeye Hazır mısın?" }}/>
+            <p className="text-white text-md font-medium text-gray-500/75" dangerouslySetInnerHTML={{ __html: "En İyi Botla Tanışmaya Hazır mısın?" }}/>
             <a href="https://discord.com/oauth2/authorize?client_id=1268638770656182432&scope=bot&permissions=283736800382" className={"mt-10 flex items-center px-4 justify-center gap-x-2 shadow-lg shadow-amber-600/20 cursor-pointer rounded-xl py-4 font-medium bg-gradient-to-r from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white"}>
               <i className="fab fa-discord mr-2" />CiBot'u Sunucuna Davet Et
             </a>
