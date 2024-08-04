@@ -70,8 +70,8 @@ export default function Footer() {
                                 </Link>
                             </div>
                             <div>
-                                <Link href="https://youtube.com/UmutBayraktarYT">
-                                    <a className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                <Link href="https://www.youtube.com/channel/UCLcM_luQ1ICDIBy1korAhnw">
+                                    <a className="text-white/50 hover:text-red hover:underline transform duration-200">
                                     <i className={`fa-brands fa-youtube`} /> YouTube 
                                     </a>
                                 </Link>
