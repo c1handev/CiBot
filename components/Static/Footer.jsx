@@ -94,8 +94,8 @@ export default function Footer() {
                             {new Date().getFullYear()} &copy; CiBot
                         </p>
                         <div className="hidden md:flex items-center justify-center">
-                                <p className={"text-xs text-red-400"}>
-                                    Bot Şu Anda Kullanıma Açık Değil
+                                <p className={"text-xs text-orange-400"}>
+                                    Bot Bakımda⏳
                                 </p>
                         </div>
                         <p className="text-white text-center sm:text-right text-opacity-50">
