@@ -33,14 +33,14 @@ export default function Partners() {
 
 
                             <div className="flex flex-col justify-center text-white rounded">
-            <a href="https://codeshare.me/partners/64db583a4292ca1066ad0a1b">
+            <a href="merloagalarspor.com">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https://media.discordapp.net/attachments/1172657853056684102/1172671829673005146/maskot_profil_alev.png" />
+                            <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/attachments/1269709170697965648/1310858683546206308/1732603243802.png?ex=6746bfc8&is=67456e48&hm=02535ecf87e440811a5c8a7b5544800d18a2975d6267282b3c829a9fc8e6e790&" />
                             <div>
-                                <h1 className="leading-none text-3xl font-bold text-white">Nodesty VDS</h1>        
+                                <h1 className="leading-none text-3xl font-bold text-white">MerLo Agalarspor</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
-                                   DISCOUNT CODE: CODESHARE Experience uninterrupted internet speed up to 10Gb and cheap intel i9, amd ryzen series vds with Nodesty. Shop with Code Share assurance.
+                                   MerLo Agalarspor Spor Kulübü
                                     </p>
                                 </div>     
                             </div>
